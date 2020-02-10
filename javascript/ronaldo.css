@@ -1,0 +1,28 @@
+.A { 
+    background: linear-gradient(to right, #9c9e9f, #f6f6f6);
+    color:black;
+    font-size: 70px;
+    height: 80px;
+    text-align-last: center; 
+    
+ }
+.D{
+    font-size: 30px;
+    color:white;
+    float: left;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+.C { 
+    height:500px; float: left; 
+    color:white; 
+}
+body {
+    background-image: url('Cristiano-Ronaldo-4K.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    opacity:2.0;
+    
+   }
+
+
